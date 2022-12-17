@@ -11,6 +11,10 @@
   -Twitter : @AraiSteven
   
   -TencentQQ : 1207468774
+  
+  -NCM:stevenarai
+  
+  -Telegram : Arai Kesi
 
 <!---
 StevenArai/StevenArai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
