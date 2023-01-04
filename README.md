@@ -12,7 +12,7 @@
   
   -TencentQQ : 1207468774
   
-  -NCM:stevenarai
+  -NCM : stevenarai
   
   -Telegram : Arai Kesi
 
